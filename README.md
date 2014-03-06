@@ -2,9 +2,15 @@
 
 Port of Sublime's itg-dark-theme to Atom.
 
+[https://atom.io/packages/itg-dark-syntax](https://atom.io/packages/itg-dark-syntax)
+
 All credit goes to [@itsthatguy](http://github.com/itsthatguy).
 
 [Sublime version](https://github.com/itsthatguy/theme-itg-flat)
+
+## Installation
+
+`apm install itg-dark-syntax` or through the package manager
 
 ## Screenshots
 
