@@ -2,8 +2,8 @@
   "name": "itg-dark-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/itg-dark-syntax",
+  "description": "Port of Sublime's itg-dark-theme to Atom.",
+  "repository": "https://github.com/paradox41/itg-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
