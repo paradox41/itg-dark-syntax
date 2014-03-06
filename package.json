@@ -1,7 +1,7 @@
 {
   "name": "itg-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Port of Sublime's itg-dark-theme to Atom.",
   "repository": "https://github.com/paradox41/itg-dark-syntax",
   "license": "MIT",
