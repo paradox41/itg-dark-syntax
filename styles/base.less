@@ -30,6 +30,15 @@ atom-text-editor, :host {
     color: @syntax-invisible-character-color;
   }
   
+  .find-result .region {
+      background-color: transparent;
+      border-color: @syntax-result-marker-color;
+  }
+  
+  .current-result .region {
+      border-color: @syntax-result-marker-color-selected;
+  }
+  
   .is-focused .cursor {
     border-color: @syntax-cursor-color;
   }
